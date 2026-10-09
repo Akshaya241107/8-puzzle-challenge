@@ -1,0 +1,6 @@
+{
+  "name": "8-Puzzle Challenge Game",
+  "description": "Play the classic 3x3 sliding tile game with live stopwatch, move counter, AI hints powered by A* search, Human vs AI speed race mode, and step-by-step auto-solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
